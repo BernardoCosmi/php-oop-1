@@ -20,7 +20,7 @@
         }
     }
 
-    // Istanziamento di due oggetti Movie
+    // Istanziamento di tre oggetti Movie
     $movie1 = new Movie("The Lord of the Rings: The Fellowship of the Ring", "Peter Jackson", 2001);
     $movie2 = new Movie("The Lord of the Rings: The Two Towers", "Peter Jackson", 2002);
     $movie3 = new Movie("The Lord of the Rings: The Return of the King", "Peter Jackson", 2003);
